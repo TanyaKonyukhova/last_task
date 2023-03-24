@@ -1,0 +1,5 @@
+C:\Users\cotta\OneDrive\Desktop\C#\last_task\obj\Debug\net7.0\last_task.csproj.AssemblyReference.cache
+C:\Users\cotta\OneDrive\Desktop\C#\last_task\obj\Debug\net7.0\last_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cotta\OneDrive\Desktop\C#\last_task\obj\Debug\net7.0\last_task.AssemblyInfoInputs.cache
+C:\Users\cotta\OneDrive\Desktop\C#\last_task\obj\Debug\net7.0\last_task.AssemblyInfo.cs
+C:\Users\cotta\OneDrive\Desktop\C#\last_task\obj\Debug\net7.0\last_task.csproj.CoreCompileInputs.cache
